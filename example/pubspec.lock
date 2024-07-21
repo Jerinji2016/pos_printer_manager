@@ -174,11 +174,9 @@ packages:
   flutter_usb_printer:
     dependency: transitive
     description:
-      path: "."
-      ref: null_exception_handling
-      resolved-ref: "88d92d6218fa337e1d6aed2d8bccc32eb2190160"
-      url: "https://github.com/Jerinji2016/flutter_usb_printer.git"
-    source: git
+      path: "../../flutter_usb_printer"
+      relative: true
+    source: path
     version: "0.1.0+1"
   flutter_web_plugins:
     dependency: transitive

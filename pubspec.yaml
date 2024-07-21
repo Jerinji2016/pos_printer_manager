@@ -19,9 +19,7 @@ dependencies:
   ffi: ^2.1.0
 
   flutter_usb_printer:
-    git:
-      url: https://github.com/Jerinji2016/flutter_usb_printer.git
-      ref: null_exception_handling
+    path: ../flutter_usb_printer
 
 dev_dependencies:
   flutter_test:
